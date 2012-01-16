@@ -2,3 +2,6 @@
 .DS_Store
 starter-kit-2.*
 *.tar
+tramp
+backups
+elpa
