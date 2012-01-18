@@ -213,7 +213,7 @@
 
 ;;(setq exec-path (cons (expand-file-name "~/.rvm/gems/ruby/1.9.2-p290/bin") exec-path))
 ;;(require 'scss-mode)
-;;(setq scss-compile-at-save nil)
+(setq scss-compile-at-save nil)
 
 
 ;;(autoload 'scss-mode "scss-mode")
