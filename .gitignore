@@ -5,3 +5,7 @@ starter-kit-2.*
 tramp
 backups
 elpa
+auto-save-list
+places
+.smex-items
+url/
